@@ -1,0 +1,19 @@
+body {
+    background-color: lightsalmon;
+}
+
+button {
+    width: 80px;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+ background-color:lightblue ;
+    color: white;
+    height: 50px;
+}
+
+.running-score {
+    margin-top: 50px;
+}
